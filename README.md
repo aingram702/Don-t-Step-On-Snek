@@ -1,2 +1,2 @@
 # Dont-Step-On-Snek
-A janky python snake game meant to be played in PowerShell commandline.
+A janky snake game meant to be played in the PowerShell commandline.
